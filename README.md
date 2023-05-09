@@ -4,4 +4,4 @@
 
 My journeyman project: [London Airbnb Explorer - Readme](https://github.com/Jappler85/my_projects/blob/main/README.md) | [Presentation](https://github.com/Jappler85/my_projects/blob/main/journeymans_piece_airbnb_explorer/journeymans_piece_london_airbnb_explorer_presentation.pdf) | [Code](https://github.com/Jappler85/my_projects/blob/main/journeymans_piece_airbnb_explorer/journeymans_piece_london_airbnb_explorer.ipynb) | [Tableau Dasboard](https://public.tableau.com/app/profile/adri.n.dom.nguez/viz/POInterest-LondonAirbnbExplorer/FINALDASHBOARD) |
 
-I do :schlange: Python, :elefant: SQL & :funkelnde_sterne: Tableau & you can reach me via jappler85@googlemail.com
+I am familiar with 🐍 Python, 🐘 SQL and ✨ Tableau. You can reach me via jappler85@googlemail.com
