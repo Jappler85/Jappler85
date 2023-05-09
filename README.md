@@ -1,7 +1,12 @@
-## Hi, I am Julian! ##
-### I am a Product Manager and I am starting my career in Data.
-[Here you can find the projects](https://github.com/Jappler85/my_projects) I did as a Data Analytics Trainee and projects I'm involved with in my free time.
+## Welcome to my GitHub profile! ##
+My name is Julian and I recently completed an advanced data analytics bootcamp, where I gained expertise in various aspects of data analysis. 
 
-My journeyman project: [London Airbnb Explorer - Readme](https://github.com/Jappler85/my_projects/blob/main/README.md) | [Presentation](https://github.com/Jappler85/my_projects/blob/main/journeymans_piece_airbnb_explorer/journeymans_piece_london_airbnb_explorer_presentation.pdf) | [Code](https://github.com/Jappler85/my_projects/blob/main/journeymans_piece_airbnb_explorer/journeymans_piece_london_airbnb_explorer.ipynb) | [Tableau Dasboard](https://public.tableau.com/app/profile/adri.n.dom.nguez/viz/POInterest-LondonAirbnbExplorer/FINALDASHBOARD) |
+I am proficient in data cleaning, data visualization, and working with tools such as Python (including pandas, numpy, seaborn, and scikit-learn), SQL, and Tableau.
 
-I am familiar with 🐍 Python, 🐘 SQL and ✨ Tableau. You can reach me via jappler85@googlemail.com
+---
+
+Feel free to [explore](https://github.com/Jappler85/my_projects) some of my repositories and projects, where I showcase my data analytics capabilities and my passion for turning raw data into actionable insights. 
+
+Let's connect and collaborate on data-driven projects to make a real impact together!
+
+You can reach me via [Mail](mailto:jappler85@googlemail.com) or [LinkedIn](https://www.linkedin.com/in/julianappler/)
