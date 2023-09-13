@@ -5,7 +5,7 @@ I am proficient in data cleaning, data visualization, and working with tools suc
 
 ---
 
-### Feel free to [explore](https://github.com/Jappler85/my_projects) some of my repositories and projects where I showcase my data analytics capabilities and my passion for turning raw data into actionable insights. 
+## Feel free to [explore](https://github.com/Jappler85/my_projects) some of my projects where I showcase my data analytics capabilities and my passion for turning raw data into actionable insights. 
 
 Let's connect and collaborate on data-driven projects to make a real impact together!
 
